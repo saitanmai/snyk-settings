@@ -1,1 +1,2 @@
 # snyk-settings
+vul-scan
